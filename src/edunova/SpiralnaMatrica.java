@@ -5,17 +5,17 @@ import javax.swing.JOptionPane;
 
 public class SpiralnaMatrica {
     
-    		/* program prima broj stupaca i redova tablice, zatim polja spiralno puni brojevima	od 1 navise
+    	/* program prima broj stupaca i redova tablice, zatim polja spiralno puni brojevima od 1 navise
 	
-				3.
+			3.
 		^>>>>>>>>>>>>>>>>>
 		^|00|01|02|03|04|v
 		^|10|11|12|13|14|v
-	 2.	^|20|21|22|23|24|v 4,
+	     2. ^|20|21|22|23|24|v 4.
 		^|30|31|32|33|34|v
 		^|40|41|42|43|44|v
 		<<<<<<<<<<<<<<<<<<    
-		   		1. 
+		   	1. 
 		
 	*/
 
